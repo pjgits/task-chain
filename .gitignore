@@ -1,2 +1,7 @@
 task-chain.iml
 .idea/
+*.iml
+main/target/
+*/*/target/
+*/target/
+target/
